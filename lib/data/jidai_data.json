@@ -1,0 +1,1724 @@
+[
+{
+  "index": 1,
+  "name": "大化",
+  "reading": "たいか",
+  "begin_yr": 645,
+  "end_yr": 650
+},
+{
+  "index": 2,
+  "name": "白雉",
+  "reading": "はくち",
+  "begin_yr": 650,
+  "end_yr": 686
+},
+{
+  "index": 3,
+  "name": "朱鳥",
+  "reading": "しゅちょう",
+  "begin_yr": 686,
+  "end_yr": 701
+},
+{
+  "index": 4,
+  "name": "大宝",
+  "reading": "たいほう",
+  "begin_yr": 701,
+  "end_yr": 704
+},
+{
+  "index": 5,
+  "name": "慶雲",
+  "reading": "けいうん",
+  "begin_yr": 704,
+  "end_yr": 708
+},
+{
+  "index": 6,
+  "name": "和銅",
+  "reading": "わどう",
+  "begin_yr": 708,
+  "end_yr": 715
+},
+{
+  "index": 7,
+  "name": "霊亀",
+  "reading": "れいき",
+  "begin_yr": 715,
+  "end_yr": 717
+},
+{
+  "index": 8,
+  "name": "養老",
+  "reading": "ようろう",
+  "begin_yr": 717,
+  "end_yr": 724
+},
+{
+  "index": 9,
+  "name": "神亀",
+  "reading": "じんき",
+  "begin_yr": 724,
+  "end_yr": 729
+},
+{
+  "index": 10,
+  "name": "天平",
+  "reading": "てんぴょう",
+  "begin_yr": 781,
+  "end_yr": 782
+},
+{
+  "index": 11,
+  "name": "天平感宝",
+  "reading": "てんぴょうかんぽう",
+  "begin_yr": 781,
+  "end_yr": 782
+},
+{
+  "index": 12,
+  "name": "天平勝宝",
+  "reading": "てんぴょうしょうほう",
+  "begin_yr": 749,
+  "end_yr": 757
+},
+{
+  "index": 13,
+  "name": "天平宝字",
+  "reading": "てんぴょうほうじ",
+  "begin_yr": 757,
+  "end_yr": 765
+},
+{
+  "index": 14,
+  "name": "天平神護",
+  "reading": "てんぴょうじんご",
+  "begin_yr": 765,
+  "end_yr": 767
+},
+{
+  "index": 15,
+  "name": "神護景雲",
+  "reading": "じんごけいうん",
+  "begin_yr": 767,
+  "end_yr": 770
+},
+{
+  "index": 16,
+  "name": "宝亀",
+  "reading": "ほうき",
+  "begin_yr": 770,
+  "end_yr": 781
+},
+{
+  "index": 17,
+  "name": "天応",
+  "reading": "てんおう",
+  "begin_yr": 781,
+  "end_yr": 782
+},
+{
+  "index": 18,
+  "name": "延暦",
+  "reading": "えんりゃく",
+  "begin_yr": 782,
+  "end_yr": 806
+},
+{
+  "index": 19,
+  "name": "大同",
+  "reading": "だいどう",
+  "begin_yr": 806,
+  "end_yr": 810
+},
+{
+  "index": 20,
+  "name": "弘仁",
+  "reading": "こうにん",
+  "begin_yr": 810,
+  "end_yr": 824
+},
+{
+  "index": 21,
+  "name": "天長",
+  "reading": "てんちょう",
+  "begin_yr": 824,
+  "end_yr": 834
+},
+{
+  "index": 22,
+  "name": "承和",
+  "reading": "じょうわ",
+  "begin_yr": 834,
+  "end_yr": 848
+},
+{
+  "index": 23,
+  "name": "嘉祥",
+  "reading": "かしょう",
+  "begin_yr": 848,
+  "end_yr": 851
+},
+{
+  "index": 24,
+  "name": "仁寿",
+  "reading": "にんじゅ",
+  "begin_yr": 851,
+  "end_yr": 854
+},
+{
+  "index": 25,
+  "name": "斉衡",
+  "reading": "さいこう",
+  "begin_yr": 854,
+  "end_yr": 857
+},
+{
+  "index": 26,
+  "name": "天安",
+  "reading": "てんあん",
+  "begin_yr": 857,
+  "end_yr": 859
+},
+{
+  "index": 27,
+  "name": "貞観",
+  "reading": "じょうがん",
+  "begin_yr": 859,
+  "end_yr": 877
+},
+{
+  "index": 28,
+  "name": "元慶",
+  "reading": "がんぎょう",
+  "begin_yr": 877,
+  "end_yr": 885
+},
+{
+  "index": 29,
+  "name": "仁和",
+  "reading": "にんな",
+  "begin_yr": 885,
+  "end_yr": 889
+},
+{
+  "index": 30,
+  "name": "寛平",
+  "reading": "かんぴょう",
+  "begin_yr": 889,
+  "end_yr": 898
+},
+{
+  "index": 31,
+  "name": "昌泰",
+  "reading": "しょうたい",
+  "begin_yr": 898,
+  "end_yr": 901
+},
+{
+  "index": 32,
+  "name": "延喜",
+  "reading": "えんぎ",
+  "begin_yr": 901,
+  "end_yr": 923
+},
+{
+  "index": 33,
+  "name": "延長",
+  "reading": "えんちょう",
+  "begin_yr": 923,
+  "end_yr": 931
+},
+{
+  "index": 34,
+  "name": "承平",
+  "reading": "じょうへい",
+  "begin_yr": 931,
+  "end_yr": 938
+},
+{
+  "index": 35,
+  "name": "天慶",
+  "reading": "てんぎょう",
+  "begin_yr": 938,
+  "end_yr": 947
+},
+{
+  "index": 36,
+  "name": "天暦",
+  "reading": "てんりゃく",
+  "begin_yr": 947,
+  "end_yr": 957
+},
+{
+  "index": 37,
+  "name": "応和",
+  "reading": "おうわ",
+  "begin_yr": 961,
+  "end_yr": 964
+},
+{
+  "index": 38,
+  "name": "康保",
+  "reading": "こうほう",
+  "begin_yr": 964,
+  "end_yr": 968
+},
+{
+  "index": 39,
+  "name": "安和",
+  "reading": "あんわ",
+  "begin_yr": 968,
+  "end_yr": 970
+},
+{
+  "index": 40,
+  "name": "天禄",
+  "reading": "てんろく",
+  "begin_yr": 970,
+  "end_yr": 974
+},
+{
+  "index": 41,
+  "name": "天延",
+  "reading": "てんえん",
+  "begin_yr": 974,
+  "end_yr": 976
+},
+{
+  "index": 42,
+  "name": "貞元",
+  "reading": "じょうげん",
+  "begin_yr": 976,
+  "end_yr": 978
+},
+{
+  "index": 43,
+  "name": "天元",
+  "reading": "てんげん",
+  "begin_yr": 978,
+  "end_yr": 983
+},
+{
+  "index": 44,
+  "name": "永観",
+  "reading": "えいかん",
+  "begin_yr": 983,
+  "end_yr": 985
+},
+{
+  "index": 45,
+  "name": "寛和",
+  "reading": "かんな",
+  "begin_yr": 985,
+  "end_yr": 987
+},
+{
+  "index": 46,
+  "name": "永延",
+  "reading": "えいえん",
+  "begin_yr": 987,
+  "end_yr": 989
+},
+{
+  "index": 47,
+  "name": "永祚",
+  "reading": "えいそ",
+  "begin_yr": 989,
+  "end_yr": 990
+},
+{
+  "index": 48,
+  "name": "正暦",
+  "reading": "しょうりゃく",
+  "begin_yr": 990,
+  "end_yr": 995
+},
+{
+  "index": 49,
+  "name": "長徳",
+  "reading": "ちょうとく",
+  "begin_yr": 995,
+  "end_yr": 999
+},
+{
+  "index": 50,
+  "name": "長保",
+  "reading": "ちょうほう",
+  "begin_yr": 999,
+  "end_yr": 1004
+},
+{
+  "index": 51,
+  "name": "寛弘",
+  "reading": "かんこう",
+  "begin_yr": 1004,
+  "end_yr": 1012
+},
+{
+  "index": 52,
+  "name": "長和",
+  "reading": "ちょうわ",
+  "begin_yr": 1012,
+  "end_yr": 1017
+},
+{
+  "index": 53,
+  "name": "寛仁",
+  "reading": "かんにん",
+  "begin_yr": 1017,
+  "end_yr": 1021
+},
+{
+  "index": 54,
+  "name": "治安",
+  "reading": "じあん",
+  "begin_yr": 1021,
+  "end_yr": 1024
+},
+{
+  "index": 55,
+  "name": "万寿",
+  "reading": "まんじゅ",
+  "begin_yr": 1024,
+  "end_yr": 1028
+},
+{
+  "index": 56,
+  "name": "長元",
+  "reading": "ちょうげん",
+  "begin_yr": 1028,
+  "end_yr": 1037
+},
+{
+  "index": 57,
+  "name": "長暦",
+  "reading": "ちょうりゃく",
+  "begin_yr": 1037,
+  "end_yr": 1040
+},
+{
+  "index": 58,
+  "name": "長久",
+  "reading": "ちょうきゅう",
+  "begin_yr": 1040,
+  "end_yr": 1044
+},
+{
+  "index": 59,
+  "name": "寛徳",
+  "reading": "かんとく",
+  "begin_yr": 1044,
+  "end_yr": 1046
+},
+{
+  "index": 60,
+  "name": "永承",
+  "reading": "えいしょう",
+  "begin_yr": 1046,
+  "end_yr": 1053
+},
+{
+  "index": 61,
+  "name": "天喜",
+  "reading": "てんき",
+  "begin_yr": 1053,
+  "end_yr": 1058
+},
+{
+  "index": 62,
+  "name": "康平",
+  "reading": "こうへい",
+  "begin_yr": 1058,
+  "end_yr": 1065
+},
+{
+  "index": 63,
+  "name": "治暦",
+  "reading": "じりゃく",
+  "begin_yr": 1065,
+  "end_yr": 1069
+},
+{
+  "index": 64,
+  "name": "延久",
+  "reading": "えんきゅう",
+  "begin_yr": 1069,
+  "end_yr": 1074
+},
+{
+  "index": 65,
+  "name": "承保",
+  "reading": "じょうほう",
+  "begin_yr": 1074,
+  "end_yr": 1077
+},
+{
+  "index": 66,
+  "name": "承暦",
+  "reading": "じょうりゃく",
+  "begin_yr": 1077,
+  "end_yr": 1081
+},
+{
+  "index": 67,
+  "name": "永保",
+  "reading": "えいほう",
+  "begin_yr": 1081,
+  "end_yr": 1084
+},
+{
+  "index": 67,
+  "name": "応徳",
+  "reading": "おうとく",
+  "begin_yr": 1084,
+  "end_yr": 1087
+},
+{
+  "index": 68,
+  "name": "寛治",
+  "reading": "かんじ",
+  "begin_yr": 1087,
+  "end_yr": 1095
+},
+{
+  "index": 69,
+  "name": "嘉保",
+  "reading": "かほう",
+  "begin_yr": 1095,
+  "end_yr": 1097
+},
+{
+  "index": 70,
+  "name": "永長",
+  "reading": "えいちょう",
+  "begin_yr": 1097,
+  "end_yr": 1097
+},
+{
+  "index": 71,
+  "name": "承徳",
+  "reading": "じょうとく",
+  "begin_yr": 1097,
+  "end_yr": 1099
+},
+{
+  "index": 72,
+  "name": "康和",
+  "reading": "こうわ",
+  "begin_yr": 1099,
+  "end_yr": 1104
+},
+{
+  "index": 73,
+  "name": "長治",
+  "reading": "ちょうじ",
+  "begin_yr": 1104,
+  "end_yr": 1106
+},
+{
+  "index": 74,
+  "name": "嘉承",
+  "reading": "かしょう",
+  "begin_yr": 1106,
+  "end_yr": 1108
+},
+{
+  "index": 75,
+  "name": "天仁",
+  "reading": "てんにん",
+  "begin_yr": 1108,
+  "end_yr": 1110
+},
+{
+  "index": 76,
+  "name": "天永",
+  "reading": "てんえい",
+  "begin_yr": 1110,
+  "end_yr": 1113
+},
+{
+  "index": 77,
+  "name": "永久",
+  "reading": "えいきゅう",
+  "begin_yr": 1113,
+  "end_yr": 1118
+},
+{
+  "index": 78,
+  "name": "元永",
+  "reading": "げんえい",
+  "begin_yr": 1118,
+  "end_yr": 1120
+},
+{
+  "index": 79,
+  "name": "保安",
+  "reading": "ほうあん",
+  "begin_yr": 1120,
+  "end_yr": 1124
+},
+{
+  "index": 80,
+  "name": "天治",
+  "reading": "てんじ",
+  "begin_yr": 1124,
+  "end_yr": 1126
+},
+{
+  "index": 81,
+  "name": "大治",
+  "reading": "だいじ",
+  "begin_yr": 1126,
+  "end_yr": 1131
+},
+{
+  "index": 82,
+  "name": "天承",
+  "reading": "てんしょう",
+  "begin_yr": 1131,
+  "end_yr": 1132
+},
+{
+  "index": 83,
+  "name": "長承",
+  "reading": "ちょうしょう",
+  "begin_yr": 1132,
+  "end_yr": 1135
+},
+{
+  "index": 84,
+  "name": "保延",
+  "reading": "ほうえん",
+  "begin_yr": 1135,
+  "end_yr": 1141
+},
+{
+  "index": 85,
+  "name": "永治",
+  "reading": "えいじ",
+  "begin_yr": 1141,
+  "end_yr": 1142
+},
+{
+  "index": 86,
+  "name": "康治",
+  "reading": "こうじ",
+  "begin_yr": 1142,
+  "end_yr": 1144
+},
+{
+  "index": 87,
+  "name": "天養",
+  "reading": "てんよう",
+  "begin_yr": 1144,
+  "end_yr": 1145
+},
+{
+  "index": 88,
+  "name": "久安",
+  "reading": "きゅうあん",
+  "begin_yr": 1145,
+  "end_yr": 1151
+},
+{
+  "index": 89,
+  "name": "仁平",
+  "reading": "にんぺい",
+  "begin_yr": 1151,
+  "end_yr": 1154
+},
+{
+  "index": 90,
+  "name": "久寿",
+  "reading": "きゅうじゅ",
+  "begin_yr": 1154,
+  "end_yr": 1156
+},
+{
+  "index": 91,
+  "name": "保元",
+  "reading": "ほうげん",
+  "begin_yr": 1156,
+  "end_yr": 1159
+},
+{
+  "index": 92,
+  "name": "平治",
+  "reading": "へいじ",
+  "begin_yr": 1159,
+  "end_yr": 1160
+},
+{
+  "index": 93,
+  "name": "永暦",
+  "reading": "えいりゃく",
+  "begin_yr": 1160,
+  "end_yr": 1161
+},
+{
+  "index": 94,
+  "name": "応保",
+  "reading": "おうほう",
+  "begin_yr": 1161,
+  "end_yr": 1163
+},
+{
+  "index": 95,
+  "name": "長寛",
+  "reading": "ちょうかん",
+  "begin_yr": 1163,
+  "end_yr": 1165
+},
+{
+  "index": 96,
+  "name": "永万",
+  "reading": "えいまん",
+  "begin_yr": 1165,
+  "end_yr": 1166
+},
+{
+  "index": 97,
+  "name": "仁安",
+  "reading": "にんあん",
+  "begin_yr": 1166,
+  "end_yr": 1169
+},
+{
+  "index": 98,
+  "name": "嘉応",
+  "reading": "かおう",
+  "begin_yr": 1169,
+  "end_yr": 1171
+},
+{
+  "index": 99,
+  "name": "承安",
+  "reading": "しょうあん",
+  "begin_yr": 1171,
+  "end_yr": 1175
+},
+{
+  "index": 100,
+  "name": "安元",
+  "reading": "あんげん",
+  "begin_yr": 1175,
+  "end_yr": 1177
+},
+{
+  "index": 101,
+  "name": "治承",
+  "reading": "じしょう",
+  "begin_yr": 1177,
+  "end_yr": 1181
+},
+{
+  "index": 102,
+  "name": "養和",
+  "reading": "ようわ",
+  "begin_yr": 1181,
+  "end_yr": 1182
+},
+{
+  "index": 103,
+  "name": "寿永",
+  "reading": "じゅえい",
+  "begin_yr": 1182,
+  "end_yr": 1184
+},
+{
+  "index": 104,
+  "name": "元暦",
+  "reading": "げんりゃく",
+  "begin_yr": 1184,
+  "end_yr": 1185
+},
+{
+  "index": 105,
+  "name": "文治",
+  "reading": "ぶんじ",
+  "begin_yr": 1185,
+  "end_yr": 1190
+},
+{
+  "index": 106,
+  "name": "建久",
+  "reading": "けんきゅう",
+  "begin_yr": 1190,
+  "end_yr": 1199
+},
+{
+  "index": 107,
+  "name": "正治",
+  "reading": "しょうじ",
+  "begin_yr": 1199,
+  "end_yr": 1201
+},
+{
+  "index": 108,
+  "name": "建仁",
+  "reading": "けんにん",
+  "begin_yr": 1201,
+  "end_yr": 1204
+},
+{
+  "index": 109,
+  "name": "元久",
+  "reading": "げんきゅう",
+  "begin_yr": 1204,
+  "end_yr": 1206
+},
+{
+  "index": 110,
+  "name": "建永",
+  "reading": "けんえい",
+  "begin_yr": 1206,
+  "end_yr": 1207
+},
+{
+  "index": 111,
+  "name": "承元",
+  "reading": "じょうげん",
+  "begin_yr": 1207,
+  "end_yr": 1211
+},
+{
+  "index": 112,
+  "name": "建暦",
+  "reading": "けんりゃく",
+  "begin_yr": 1211,
+  "end_yr": 1214
+},
+{
+  "index": 113,
+  "name": "建保",
+  "reading": "けんぽう",
+  "begin_yr": 1214,
+  "end_yr": 1219
+},
+{
+  "index": 114,
+  "name": "承久",
+  "reading": "じょうきゅう",
+  "begin_yr": 1219,
+  "end_yr": 1222
+},
+{
+  "index": 115,
+  "name": "貞応",
+  "reading": "じょうおう",
+  "begin_yr": 1222,
+  "end_yr": 1224
+},
+{
+  "index": 116,
+  "name": "元仁",
+  "reading": "げんにん",
+  "begin_yr": 1224,
+  "end_yr": 1225
+},
+{
+  "index": 117,
+  "name": "嘉禄",
+  "reading": "かろく",
+  "begin_yr": 1225,
+  "end_yr": 1228
+},
+{
+  "index": 118,
+  "name": "安貞",
+  "reading": "あんてい",
+  "begin_yr": 1228,
+  "end_yr": 1229
+},
+{
+  "index": 119,
+  "name": "寛喜",
+  "reading": "かんき",
+  "begin_yr": 1229,
+  "end_yr": 1232
+},
+{
+  "index": 120,
+  "name": "貞永",
+  "reading": "じょうえい",
+  "begin_yr": 1232,
+  "end_yr": 1233
+},
+{
+  "index": 121,
+  "name": "天福",
+  "reading": "てんぷく",
+  "begin_yr": 1233,
+  "end_yr": 1234
+},
+{
+  "index": 122,
+  "name": "文暦",
+  "reading": "ぶんりゃｋｙ",
+  "begin_yr": 1234,
+  "end_yr": 1235
+},
+{
+  "index": 123,
+  "name": "嘉禎",
+  "reading": "かてい",
+  "begin_yr": 1235,
+  "end_yr": 1238
+},
+{
+  "index": 124,
+  "name": "暦仁",
+  "reading": "りゃくにん",
+  "begin_yr": 1238,
+  "end_yr": 1239
+},
+{
+  "index": 125,
+  "name": "延応",
+  "reading": "えんおう",
+  "begin_yr": 1239,
+  "end_yr": 1240
+},
+{
+  "index": 126,
+  "name": "仁治",
+  "reading": "にんじ",
+  "begin_yr": 1240,
+  "end_yr": 1243
+},
+{
+  "index": 127,
+  "name": "寛元",
+  "reading": "かんげん",
+  "begin_yr": 1243,
+  "end_yr": 1247
+},
+{
+  "index": 128,
+  "name": "宝治",
+  "reading": "ほうじ",
+  "begin_yr": 1247,
+  "end_yr": 1249
+},
+{
+  "index": 129,
+  "name": "建長",
+  "reading": "けんちょう",
+  "begin_yr": 1249,
+  "end_yr": 1256
+},
+{
+  "index": 130,
+  "name": "康元",
+  "reading": "こうげん",
+  "begin_yr": 1256,
+  "end_yr": 1257
+},
+{
+  "index": 131,
+  "name": "正嘉",
+  "reading": "しょうか",
+  "begin_yr": 1257,
+  "end_yr": 1259
+},
+{
+  "index": 132,
+  "name": "正元",
+  "reading": "しょうげん",
+  "begin_yr": 1259,
+  "end_yr": 1260
+},
+{
+  "index": 133,
+  "name": "文応",
+  "reading": "ぶんおう",
+  "begin_yr": 1260,
+  "end_yr": 1261
+},
+{
+  "index": 134,
+  "name": "弘長",
+  "reading": "こうちょう",
+  "begin_yr": 1261,
+  "end_yr": 1264
+},
+{
+  "index": 135,
+  "name": "文永",
+  "reading": "ぶんえい",
+  "begin_yr": 1264,
+  "end_yr": 1275
+},
+{
+  "index": 136,
+  "name": "建治",
+  "reading": "けんじ",
+  "begin_yr": 1275,
+  "end_yr": 1278
+},
+{
+  "index": 137,
+  "name": "康安",
+  "reading": "こうあん",
+  "begin_yr": 1278,
+  "end_yr": 1288
+},
+{
+  "index": 138,
+  "name": "正応",
+  "reading": "しょうおう",
+  "begin_yr": 1288,
+  "end_yr": 1293
+},
+{
+  "index": 139,
+  "name": "永仁",
+  "reading": "えいにん",
+  "begin_yr": 1293,
+  "end_yr": 1299
+},
+{
+  "index": 140,
+  "name": "正安",
+  "reading": "しょうあん",
+  "begin_yr": 1299,
+  "end_yr": 1302
+},
+{
+  "index": 141,
+  "name": "乾元",
+  "reading": "けんげん",
+  "begin_yr": 1302,
+  "end_yr": 1303
+},
+{
+  "index": 142,
+  "name": "嘉元",
+  "reading": "かげん",
+  "begin_yr": 1303,
+  "end_yr": 1306
+},
+{
+  "index": 143,
+  "name": "徳治",
+  "reading": "とくじ",
+  "begin_yr": 1307,
+  "end_yr": 1308
+},
+{
+  "index": 144,
+  "name": "延慶",
+  "reading": "えんきょう",
+  "begin_yr": 1308,
+  "end_yr": 1311
+},
+{
+  "index": 145,
+  "name": "応長",
+  "reading": "おうちょう",
+  "begin_yr": 1311,
+  "end_yr": 1312
+},
+{
+  "index": 146,
+  "name": "正和",
+  "reading": "しょうわ",
+  "begin_yr": 1312,
+  "end_yr": 1317
+},
+{
+  "index": 147,
+  "name": "文保",
+  "reading": "ぶんぽう",
+  "begin_yr": 1317,
+  "end_yr": 1319
+},
+{
+  "index": 148,
+  "name": "元応",
+  "reading": "げんおう",
+  "begin_yr": 1319,
+  "end_yr": 1321
+},
+{
+  "index": 149,
+  "name": "元亨",
+  "reading": "げんこう",
+  "begin_yr": 1321,
+  "end_yr": 1324
+},
+{
+  "index": 150,
+  "name": "正中",
+  "reading": "しょうちゅう",
+  "begin_yr": 1324,
+  "end_yr": 1326
+},
+{
+  "index": 151,
+  "name": "嘉暦",
+  "reading": "かりゃく",
+  "begin_yr": 1326,
+  "end_yr": 1329
+},
+{
+  "index": 152,
+  "name": "元徳",
+  "reading": "げんとく",
+  "begin_yr": 1329,
+  "end_yr": 1331
+},
+{
+  "index": 153,
+  "name": "元弘",
+  "reading": "げんこう",
+  "begin_yr": 1331,
+  "end_yr": 1334
+},
+{
+  "index": 154,
+  "name": "正慶",
+  "reading": "しょうきょう",
+  "begin_yr": 1332,
+  "end_yr": 1333
+},
+{
+  "index": 155,
+  "name": "建武",
+  "reading": "けんむ",
+  "begin_yr": 1334,
+  "end_yr": 1336
+},
+{
+  "index": 156,
+  "name": "延元",
+  "reading": "えんげん",
+  "begin_yr": 1336,
+  "end_yr": 1340
+},
+{
+  "index": 157,
+  "name": "興国",
+  "reading": "こうこく",
+  "begin_yr": 1340,
+  "end_yr": 1347
+},
+{
+  "index": 158,
+  "name": "正平",
+  "reading": "しょうへい",
+  "begin_yr": 1347,
+  "end_yr": 1370
+},
+{
+  "index": 159,
+  "name": "建徳",
+  "reading": "けんとく",
+  "begin_yr": 1370,
+  "end_yr": 1372
+},
+{
+  "index": 160,
+  "name": "文中",
+  "reading": "ぶんちゅう",
+  "begin_yr": 1372,
+  "end_yr": 1375
+},
+{
+  "index": 161,
+  "name": "天授",
+  "reading": "てんじゅ",
+  "begin_yr": 1375,
+  "end_yr": 1381
+},
+{
+  "index": 162,
+  "name": "康和",
+  "reading": "こうわ",
+  "begin_yr": 1381,
+  "end_yr": 1384
+},
+{
+  "index": 163,
+  "name": "元中",
+  "reading": "げんちゅう",
+  "begin_yr": 1384,
+  "end_yr": 1392
+},
+{
+  "index": 164,
+  "name": "暦応",
+  "reading": "りゃくおう",
+  "begin_yr": 1338,
+  "end_yr": 1342
+},
+{
+  "index": 165,
+  "name": "康永",
+  "reading": "こうえい",
+  "begin_yr": 1342,
+  "end_yr": 1345
+},
+{
+  "index": 166,
+  "name": "貞和",
+  "reading": "じょうわ",
+  "begin_yr": 1345,
+  "end_yr": 1350
+},
+{
+  "index": 167,
+  "name": "観応",
+  "reading": "かんのう",
+  "begin_yr": 1350,
+  "end_yr": 1352
+},
+{
+  "index": 168,
+  "name": "文和",
+  "reading": "ぶんな",
+  "begin_yr": 1352,
+  "end_yr": 1356
+},
+{
+  "index": 169,
+  "name": "延文",
+  "reading": "えんぶん",
+  "begin_yr": 1356,
+  "end_yr": 1361
+},
+{
+  "index": 170,
+  "name": "康安",
+  "reading": "こうあん",
+  "begin_yr": 1361,
+  "end_yr": 1362
+},
+{
+  "index": 171,
+  "name": "貞治",
+  "reading": "じょうじ",
+  "begin_yr": 1362,
+  "end_yr": 1368
+},
+{
+  "index": 172,
+  "name": "応安",
+  "reading": "おうあん",
+  "begin_yr": 1368,
+  "end_yr": 1375
+},
+{
+  "index": 173,
+  "name": "永和",
+  "reading": "えいわ",
+  "begin_yr": 1375,
+  "end_yr": 1379
+},
+{
+  "index": 174,
+  "name": "康暦",
+  "reading": "こうりゃく",
+  "begin_yr": 1379,
+  "end_yr": 1381
+},
+{
+  "index": 175,
+  "name": "永徳",
+  "reading": "えいとく",
+  "begin_yr": 1381,
+  "end_yr": 1384
+},
+{
+  "index": 176,
+  "name": "至徳",
+  "reading": "しとく",
+  "begin_yr": 1384,
+  "end_yr": 1387
+},
+{
+  "index": 177,
+  "name": "嘉慶",
+  "reading": "かきょう",
+  "begin_yr": 1387,
+  "end_yr": 1389
+},
+{
+  "index": 178,
+  "name": "康応",
+  "reading": "こうおう",
+  "begin_yr": 1389,
+  "end_yr": 1390
+},
+{
+  "index": 179,
+  "name": "明徳",
+  "reading": "めいとく",
+  "begin_yr": 1390,
+  "end_yr": 1394
+},
+{
+  "index": 180,
+  "name": "応永",
+  "reading": "おうえい",
+  "begin_yr": 1394,
+  "end_yr": 1428
+},
+{
+  "index": 181,
+  "name": "正長",
+  "reading": "しょうちょう",
+  "begin_yr": 1428,
+  "end_yr": 1429
+},
+{
+  "index": 182,
+  "name": "永享",
+  "reading": "えいきょう",
+  "begin_yr": 1429,
+  "end_yr": 1441
+},
+{
+  "index": 183,
+  "name": "嘉吉",
+  "reading": "かきつ",
+  "begin_yr": 1441,
+  "end_yr": 1444
+},
+{
+  "index": 184,
+  "name": "文安",
+  "reading": "ぶんあん",
+  "begin_yr": 1444,
+  "end_yr": 1449
+},
+{
+  "index": 185,
+  "name": "宝徳",
+  "reading": "ほうとく",
+  "begin_yr": 1449,
+  "end_yr": 1452
+},
+{
+  "index": 186,
+  "name": "享徳",
+  "reading": "きょうとく",
+  "begin_yr": 1452,
+  "end_yr": 1455
+},
+{
+  "index": 187,
+  "name": "康正",
+  "reading": "こうしょう",
+  "begin_yr": 1455,
+  "end_yr": 1457
+},
+{
+  "index": 188,
+  "name": "長禄",
+  "reading": "ちょうろく",
+  "begin_yr": 1457,
+  "end_yr": 1461
+},
+{
+  "index": 189,
+  "name": "寛正",
+  "reading": "かんしょう",
+  "begin_yr": 1461,
+  "end_yr": 1466
+},
+{
+  "index": 190,
+  "name": "文正",
+  "reading": "ぶんしょう",
+  "begin_yr": 1466,
+  "end_yr": 1467
+},
+{
+  "index": 191,
+  "name": "応仁",
+  "reading": "おうにん",
+  "begin_yr": 1467,
+  "end_yr": 1468
+},
+{
+  "index": 192,
+  "name": "文明",
+  "reading": "ぶんめい",
+  "begin_yr": 1469,
+  "end_yr": 1486
+},
+{
+  "index": 193,
+  "name": "長享",
+  "reading": "ちょうきょう",
+  "begin_yr": 1487,
+  "end_yr": 1488
+},
+{
+  "index": 194,
+  "name": "延徳",
+  "reading": "えんとく",
+  "begin_yr": 1489,
+  "end_yr": 1491
+},
+{
+  "index": 195,
+  "name": "明応",
+  "reading": "めいおう",
+  "begin_yr": 1492,
+  "end_yr": 1500
+},
+{
+  "index": 196,
+  "name": "文亀",
+  "reading": "ぶんき",
+  "begin_yr": 1501,
+  "end_yr": 1503
+},
+{
+  "index": 197,
+  "name": "永正",
+  "reading": "えいしょう",
+  "begin_yr": 1504,
+  "end_yr": 1520
+},
+{
+  "index": 198,
+  "name": "大永",
+  "reading": "だいえい",
+  "begin_yr": 1521,
+  "end_yr": 1527
+},
+{
+  "index": 199,
+  "name": "享禄",
+  "reading": "きょうろく",
+  "begin_yr": 1528,
+  "end_yr": 1531
+},
+{
+  "index": 200,
+  "name": "天文",
+  "reading": "てんぶん",
+  "begin_yr": 1532,
+  "end_yr": 1554
+},
+{
+  "index": 201,
+  "name": "弘治",
+  "reading": "こうじ",
+  "begin_yr": 1555,
+  "end_yr": 1557
+},
+{
+  "index": 202,
+  "name": "永禄",
+  "reading": "えいろく",
+  "begin_yr": 1558,
+  "end_yr": 1569
+},
+{
+  "index": 203,
+  "name": "元亀",
+  "reading": "げんき",
+  "begin_yr": 1570,
+  "end_yr": 1572
+},
+{
+  "index": 204,
+  "name": "天正",
+  "reading": "てんしょう",
+  "begin_yr": 1573,
+  "end_yr": 1591
+},
+{
+  "index": 205,
+  "name": "文禄",
+  "reading": "ぶんろく",
+  "begin_yr": 1592,
+  "end_yr": 1595
+},
+{
+  "index": 206,
+  "name": "慶長",
+  "reading": "けいちょう",
+  "begin_yr": 1596,
+  "end_yr": 1614
+},
+{
+  "index": 207,
+  "name": "元和",
+  "reading": "げんな",
+  "begin_yr": 1615,
+  "end_yr": 1623
+},
+{
+  "index": 208,
+  "name": "寛永",
+  "reading": "かんえい",
+  "begin_yr": 1624,
+  "end_yr": 1643
+},
+{
+  "index": 209,
+  "name": "正保",
+  "reading": "しょうほう",
+  "begin_yr": 1644,
+  "end_yr": 1647
+},
+{
+  "index": 210,
+  "name": "慶安",
+  "reading": "けいあん",
+  "begin_yr": 1648,
+  "end_yr": 1651
+},
+{
+  "index": 211,
+  "name": "承応",
+  "reading": "じょうおう",
+  "begin_yr": 1652,
+  "end_yr": 1654
+},
+{
+  "index": 212,
+  "name": "明暦",
+  "reading": "めいれき",
+  "begin_yr": 1655,
+  "end_yr": 1657
+},
+{
+  "index": 213,
+  "name": "万治",
+  "reading": "まんじ",
+  "begin_yr": 1658,
+  "end_yr": 1660
+},
+{
+  "index": 214,
+  "name": "寛文",
+  "reading": "かんぶん",
+  "begin_yr": 1661,
+  "end_yr": 1672
+},
+{
+  "index": 215,
+  "name": "延宝",
+  "reading": "えんぽう",
+  "begin_yr": 1673,
+  "end_yr": 1680
+},
+{
+  "index": 216,
+  "name": "天和",
+  "reading": "てんな",
+  "begin_yr": 1681,
+  "end_yr": 1683
+},
+{
+  "index": 217,
+  "name": "貞享",
+  "reading": "じょうきょう",
+  "begin_yr": 1684,
+  "end_yr": 1687
+},
+{
+  "index": 218,
+  "name": "元禄",
+  "reading": "げんろく",
+  "begin_yr": 1688,
+  "end_yr": 1703
+},
+{
+  "index": 219,
+  "name": "宝永",
+  "reading": "ほうえい",
+  "begin_yr": 1704,
+  "end_yr": 1710
+},
+{
+  "index": 220,
+  "name": "正徳",
+  "reading": "しょうとく",
+  "begin_yr": 1711,
+  "end_yr": 1715
+},
+{
+  "index": 221,
+  "name": "享保",
+  "reading": "きょうほ",
+  "begin_yr": 1716,
+  "end_yr": 1735
+},
+{
+  "index": 222,
+  "name": "元文",
+  "reading": "げんぶん",
+  "begin_yr": 1736,
+  "end_yr": 1740
+},
+{
+  "index": 223,
+  "name": "寛保",
+  "reading": "かんぽ",
+  "begin_yr": 1741,
+  "end_yr": 1743
+},
+{
+  "index": 224,
+  "name": "延享",
+  "reading": "えんきょう",
+  "begin_yr": 1744,
+  "end_yr": 1747
+},
+{
+  "index": 225,
+  "name": "寛延",
+  "reading": "かんえん",
+  "begin_yr": 1748,
+  "end_yr": 1750
+},
+{
+  "index": 226,
+  "name": "宝暦",
+  "reading": "ほうれき",
+  "begin_yr": 1751,
+  "end_yr": 1763
+},
+{
+  "index": 227,
+  "name": "明和",
+  "reading": "めいわ",
+  "begin_yr": 1764,
+  "end_yr": 1771
+},
+{
+  "index": 228,
+  "name": "安永",
+  "reading": "あんえい",
+  "begin_yr": 1772,
+  "end_yr": 1780
+},
+{
+  "index": 229,
+  "name": "天明",
+  "reading": "てんめい",
+  "begin_yr": 1781,
+  "end_yr": 1788
+},
+{
+  "index": 230,
+  "name": "寛政",
+  "reading": "かんせい",
+  "begin_yr": 1789,
+  "end_yr": 1800
+},
+{
+  "index": 231,
+  "name": "享和",
+  "reading": "きょうわ",
+  "begin_yr": 1801,
+  "end_yr": 1803
+},
+{
+  "index": 232,
+  "name": "文化",
+  "reading": "ぶんか",
+  "begin_yr": 1804,
+  "end_yr": 1817
+},
+{
+  "index": 233,
+  "name": "文政",
+  "reading": "ぶんせい",
+  "begin_yr": 1818,
+  "end_yr": 1829
+},
+{
+  "index": 234,
+  "name": "天保",
+  "reading": "てんぽう",
+  "begin_yr": 1830,
+  "end_yr": 1843
+},
+{
+  "index": 235,
+  "name": "弘化",
+  "reading": "こうか",
+  "begin_yr": 1844,
+  "end_yr": 1847
+},
+{
+  "index": 236,
+  "name": "嘉永",
+  "reading": "かえい",
+  "begin_yr": 1848,
+  "end_yr": 1853
+},
+{
+  "index": 237,
+  "name": "安政",
+  "reading": "あんせい",
+  "begin_yr": 1854,
+  "end_yr": 1859
+},
+{
+  "index": 238,
+  "name": "万延",
+  "reading": "まんえん",
+  "begin_yr": 1860,
+  "end_yr": 1860
+},
+{
+  "index": 239,
+  "name": "文久",
+  "reading": "ぶんきゅう",
+  "begin_yr": 1861,
+  "end_yr": 1863
+},
+{
+  "index": 240,
+  "name": "元治",
+  "reading": "げんじ",
+  "begin_yr": 1864,
+  "end_yr": 1864
+},
+{
+  "index": 241,
+  "name": "慶応",
+  "reading": "けいおう",
+  "begin_yr": 1865,
+  "end_yr": 1867
+},
+{
+  "index": 242,
+  "name": "明治",
+  "reading": "めいじ",
+  "begin_yr": 1868,
+  "end_yr": 1912
+},
+{
+  "index": 243,
+  "name": "大正",
+  "reading": "たいしょう",
+  "begin_yr": 1912,
+  "end_yr": 1926
+},
+{
+  "index": 244,
+  "name": "昭和",
+  "reading": "しょうわ",
+  "begin_yr": 1926,
+  "end_yr": 1989
+},
+{
+  "index": 245,
+  "name": "平成",
+  "reading": "へいせい",
+  "begin_yr": 1989,
+  "end_yr": 2100
+}
+]

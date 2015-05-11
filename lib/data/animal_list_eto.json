@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "甲",
+        "reading_kanji": "木の兄",
+        "reading_kana": "きのえ"
+    },
+    {
+        "id": 2,
+        "name": "乙",
+        "reading_kanji": "木の弟",
+        "reading_kana": "きのと"
+    },
+    {
+        "id": 3,
+        "name": "丙",
+        "reading_kanji": "火の兄",
+        "reading_kana": "ひのえ"
+    },
+    {
+        "id": 4,
+        "name": "丁",
+        "reading_kanji": "火の弟",
+        "reading_kana": "ひのと"
+    },
+    {
+        "id": 5,
+        "name": "戊",
+        "reading_kanji": "土の兄",
+        "reading_kana": "つちのえ"
+    },
+    {
+        "id": 6,
+        "name": "己",
+        "reading_kanji": "土の弟",
+        "reading_kana": "つちのと"
+    },
+    {
+        "id": 7,
+        "name": "庚",
+        "reading_kanji": "金の兄",
+        "reading_kana": "かのえ"
+    },
+    {
+        "id": 8,
+        "name": "辛",
+        "reading_kanji": "金の弟",
+        "reading_kana": "かのと"
+    },
+    {
+        "id": 9,
+        "name": "壬",
+        "reading_kanji": "水の兄",
+        "reading_kana": "みずのえ"
+    },
+    {
+        "id": 10,
+        "name": "癸",
+        "reading_kanji": "水の弟",
+        "reading_kana": "みずのと"
+    }
+]

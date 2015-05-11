@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "子",
+        "reading_on": "し",
+        "reading_kun": "ね"
+    },
+    {
+        "id": 2,
+        "name": "丑",
+        "reading_on": "ちゅう",
+        "reading_kun": "うし"
+    },
+    {
+        "id": 3,
+        "name": "寅",
+        "reading_on": "いん",
+        "reading_kun": "とら"
+    },
+    {
+        "id": 4,
+        "name": "卯",
+        "reading_on": "ぼう",
+        "reading_kun": "う"
+    },
+    {
+        "id": 5,
+        "name": "辰",
+        "reading_on": "しん",
+        "reading_kun": "たつ"
+    },
+    {
+        "id": 6,
+        "name": "巳",
+        "reading_on": "し",
+        "reading_kun": "み"
+    },
+    {
+        "id": 7,
+        "name": "午",
+        "reading_on": "ご",
+        "reading_kun": "うま"
+    },
+    {
+        "id": 8,
+        "name": "未",
+        "reading_on": "み",
+        "reading_kun": "ひつじ"
+    },
+    {
+        "id": 9,
+        "name": "申",
+        "reading_on": "しん",
+        "reading_kun": "さる"
+    },
+    {
+        "id": 10,
+        "name": "酉",
+        "reading_on": "ゆう",
+        "reading_kun": "とり"
+    },
+    {
+        "id": 11,
+        "name": "戌",
+        "reading_on": "じゅつ",
+        "reading_kun": "いぬ"
+    },
+    {
+        "id": 12,
+        "name": "亥",
+        "reading_on": "がい",
+        "reading_kun": "い"
+    }
+]
