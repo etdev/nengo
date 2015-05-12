@@ -1,16 +1,17 @@
 # coding: utf-8
+require 'json'
+
 class Nengo
   attr_reader :year_seireki
   attr_reader :year_koki
-  attr_reader :year_nengo
   attr_reader :data_nengo
   attr_reader :data_eto
   attr_reader :nenrei
   attr_reader :jidai_data
 
-  JIDAI_DATA_PATH = "#{Dir.pwd.join('data', 'jidai_data.json')}"
-  ANIMAL_LIST_ETO_PATH = "#{Dir.pwd.join('data', 'animal_list_eto.json')}"
-  ELEMENT_LIST_ETO_PATH = "#{Dir.pwd.join('data', 'element_list_eto.json')}"
+  JIDAI_DATA_PATH = File.join(__dir__, "data", "jidai_data.json")
+  ANIMAL_LIST_ETO_PATH = File.join(__dir__, "data", "animal_list_eto.json")
+  ELEMENT_LIST_ETO_PATH = File.join(__dir__, "data", "element_list_eto.json")
 
   def initialize(year = nil)
     year = year.nil? ? current_year_seireki : year
@@ -24,6 +25,7 @@ class Nengo
     @nenrei = get_nenrei(@year_seireki)
     @data_eto = get_data_eto(@year_seireki)
     @year_koki = get_koki(@year_seireki)
+    true
   end
 
   def current_year_seireki
@@ -33,16 +35,19 @@ class Nengo
   def set_by_nengo(nengo_data)
     @year_seireki = nengo_to_seireki(nengo_data)
     set_by_seireki(@year_seireki)
+    true
   end
 
   def set_by_nenrei(nenrei)
     @year_seireki = current_year_seireki - nenrei
     set_by_seireki(@year_seireki)
+    true
   end
 
   def set_by_koki(koki)
     @year_seireki = koki - 660
     set_by_seireki(@year_seireki)
+    true
   end
 
   def get_data_nengo(year_seireki)
@@ -114,5 +119,4 @@ class Nengo
       jidai_data_file = File.read(JIDAI_DATA_PATH)
       JSON.parse(jidai_data_file)
     end
-
 end
