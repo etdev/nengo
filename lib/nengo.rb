@@ -2,12 +2,7 @@
 require 'json'
 
 class Nengo
-  attr_reader :year_seireki
-  attr_reader :year_koki
-  attr_reader :data_nengo
-  attr_reader :data_eto
-  attr_reader :nenrei
-  attr_reader :jidai_data
+  attr_reader :year_seireki, :year_koki, :data_nengo, :data_eto, :nenrei, :jidai_data
 
   JIDAI_DATA_PATH = File.join(__dir__, "data", "jidai_data.json")
   ANIMAL_LIST_ETO_PATH = File.join(__dir__, "data", "animal_list_eto.json")
