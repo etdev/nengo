@@ -1,3 +1,4 @@
+[![Code Climate](https://codeclimate.com/github/etdev/nengo/badges/gpa.svg)](https://codeclimate.com/github/etdev/nengo)
 # nengo
 Ruby Gem to convert between Japanese year formats and check age and zodiac information for given years.
 
