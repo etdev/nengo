@@ -1719,6 +1719,13 @@
   "name": "平成",
   "reading": "へいせい",
   "begin_yr": 1989,
-  "end_yr": 2100
+  "end_yr": 2018
+},
+{
+    "index": 246,
+    "name": "令和",
+    "reading": "れいわ",
+    "begin_yr": 2019,
+    "end_yr": 2100
 }
 ]
